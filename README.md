@@ -116,7 +116,7 @@ The other two stay as practice reps. Not everything needs to be a product.
 
 3 months into self-teaching, the syntax gap became the bottleneck. Architecture was already senior-level. Vocabulary wasn't.
 
-The fix: type every block from memory, across multiple domains, at multiple syntax layers. No copy-paste. No shortcuts. Same logic, richer wrapper, four times per domain.
+The fix: type every block from memory, across multiple domains, at multiple syntax layers. 
 
 This repo is the visible trace of that process.
 

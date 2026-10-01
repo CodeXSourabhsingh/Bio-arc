@@ -16,8 +16,8 @@ if X in can_recieve_from:
     all_types = ['O-','O+','A+','A-','B+','B-','AB+','AB-']
     incompatible = [t for t in all_types if t not in compatible]
     print(f"Blood Group : {X}")
-    print(f"can recieve from: {compatible}")
-    print(f"cannot recieve from : {incompatible}")
+    print(f"can receive from: {compatible}")
+    print(f"cannot receive from : {incompatible}")
 else:
     print('invalid blood group')
 

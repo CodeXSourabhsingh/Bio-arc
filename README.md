@@ -58,7 +58,7 @@ The rule: V4 re-types V1's core logic. Every layer reinforces the previous one. 
 
 ### Arc 4 — Pharmacokinetics Dosage
 
-- V1: Weight + half-life + target level → recommended dose
+- V1: Weight + half-life + target level → calculated dose
 - V2: DrugDose class with calculate() method
 - V3: Drug parameters CSV → dose per patient → MySQL
 - V4: Streamlit app
